@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hgiKvWWnqkhPtzFNgqODcCDo6L370fTgu0E078bEvBLbW9pzhegr9aijjvEdshtp/+xNCaR4OCnKRMdBsjPApA==",
+  "dgSpecHash": "LQ3EPrixhzQZ6yiRgl+vIzVZOMNsJ48yBhHalwZn+JMo2EhM9+ojMG+Tui0y/MviZ6186ib+cB94lAxoDRfdzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate\\MVCCoreTemplate.csproj",
+  "projectFilePath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate\\MVCCoreTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

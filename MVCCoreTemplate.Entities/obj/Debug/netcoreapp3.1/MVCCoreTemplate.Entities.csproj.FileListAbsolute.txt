@@ -47,3 +47,15 @@ C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CopyComplete
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.deps.json
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csprojAssemblyReference.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfoInputs.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfo.cs
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CoreCompileInputs.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CopyComplete
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb

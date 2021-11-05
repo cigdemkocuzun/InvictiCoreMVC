@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj": {}
+    "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj": {
+    "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
+        "projectUniqueName": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
         "projectName": "MVCCoreTemplate.Core",
-        "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
+        "projectPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
         "packagesPath": "C:\\Users\\cigdem.koc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\obj\\",
+        "outputPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj": {
+    "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj",
+        "projectUniqueName": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj",
         "projectName": "MVCCoreTemplate.Entities",
-        "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj",
+        "projectPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\MVCCoreTemplate.Entities.csproj",
         "packagesPath": "C:\\Users\\cigdem.koc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\obj\\",
+        "outputPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj"
+              "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj": {
+                "projectPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj"
               }
             }
           }

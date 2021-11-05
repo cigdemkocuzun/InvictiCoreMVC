@@ -5708,11 +5708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
+      "projectUniqueName": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
       "projectName": "MVCCoreTemplate.Core",
-      "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
+      "projectPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
       "packagesPath": "C:\\Users\\cigdem.koc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\obj\\",
+      "outputPath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

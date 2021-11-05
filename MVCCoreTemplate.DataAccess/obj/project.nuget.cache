@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iDbN1HrwkA/uJvc6c4mdXVP189em6XxhdwKIvOUaVTI3GNNRiGo87DfOsonfmToVRsGmbXzb3P/9P0oSiffaLQ==",
+  "dgSpecHash": "iRBzMc1Q9oTG8f5NJ3K9zQzAuY403x362kTWWmuEro+eRXK7lfJKEzicRqS82TL6XsWHVrAKioEWyc8cNhVjFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.DataAccess\\MVCCoreTemplate.DataAccess.csproj",
+  "projectFilePath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.DataAccess\\MVCCoreTemplate.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",

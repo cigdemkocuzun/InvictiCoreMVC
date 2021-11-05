@@ -54,7 +54,7 @@ namespace MVCCoreTemplate.Business.WorkerService
             try
             {
                 // try accessing the web service directly via it's URL
-                HttpWebRequest request = WebRequest.Create("https://www.linkedin.com/") as HttpWebRequest;
+                HttpWebRequest request = WebRequest.Create(urlAdress) as HttpWebRequest;
                 request.Timeout = 30000;
 
                 using (HttpWebResponse response = request.GetResponse() as HttpWebResponse)

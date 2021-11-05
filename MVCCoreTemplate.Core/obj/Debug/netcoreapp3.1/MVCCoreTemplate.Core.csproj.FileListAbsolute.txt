@@ -34,3 +34,12 @@ C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.CoreCompileInputs.cache
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.deps.json
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csprojAssemblyReference.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfoInputs.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfo.cs
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.CoreCompileInputs.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb

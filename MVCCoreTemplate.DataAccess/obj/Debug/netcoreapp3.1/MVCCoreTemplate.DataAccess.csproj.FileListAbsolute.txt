@@ -67,3 +67,20 @@ C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
 C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.genruntimeconfig.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.deps.json
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.json
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.dev.json
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csprojAssemblyReference.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfo.cs
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CopyComplete
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\github repos\InvAssignment\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.genruntimeconfig.cache

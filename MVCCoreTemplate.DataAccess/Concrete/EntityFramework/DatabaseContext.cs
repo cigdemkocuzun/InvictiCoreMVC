@@ -17,7 +17,7 @@ namespace MVCCoreTemplate.DataAccess.Concrete.EntityFramework
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=test; Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=Invicti; Trusted_Connection=true");
 
         }
 

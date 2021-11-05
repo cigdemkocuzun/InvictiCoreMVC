@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ExJ/x2ca5CI4P9a9U0nTyI+kW1Z61jVbd8bpbrRNRG7RRA+d9B5B0/pCESIGmjVeSwNTPy1RZQBecYIecoh9A==",
+  "dgSpecHash": "KGE+TQT0PaNpoevQWp7bhhodmy2zohT6kF2AjrA8GPLXUY8P7Z3v80lcF/8gVP8yH1qRkQUSPhVcINGawhLlWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cigdem.koc\\Desktop\\yedek invicti\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
+  "projectFilePath": "C:\\github repos\\InvAssignment\\MVCCoreTemplate\\MVCCoreTemplate.Core\\MVCCoreTemplate.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
