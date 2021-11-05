@@ -1,0 +1,36 @@
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.deps.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfo.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.AssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.deps.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.AssemblyReference.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfo.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Core\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb

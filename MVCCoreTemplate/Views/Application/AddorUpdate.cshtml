@@ -1,0 +1,55 @@
+﻿@model ApplicationViewModel
+@{
+    ViewData["Title"] = "AddorUpdate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2>Create Application</h2>
+    <br />
+    <form asp-controller="Application" asp-action="AddorUpdate" method="post">
+        @Html.HiddenFor(x => x.Application.ApplicationId)
+
+        <div class="row static-info">
+            <div class="col-md-8">
+                <label asp-for="Application.Name"></label>
+                <input asp-for="Application.Name" class="form-control">
+                <span asp-validation-for="Application.Name" class="text-danger"></span>
+
+            </div>
+        </div>
+        <div class="row static-info">
+            <div class="col-md-4">
+                <label asp-for="Application.Url"></label>
+                <input type="url" asp-for="Application.Url" class="form-control">
+                <span asp-validation-for="Application.Url" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-4">
+                <label asp-for="Application.MonitoringInterval">Monitoring Interval (minutes)</label>
+                <input type="number" asp-for="Application.MonitoringInterval" class="form-control">
+                <span asp-validation-for="Application.MonitoringInterval" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row static-info">
+            <div class="col-md-8">
+                <label asp-for="Application.Description"></label>
+                <textarea asp-for="Application.Description" class="form-control"></textarea>
+            </div>
+        </div>
+        <br />
+        <p>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </p>
+
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        // show the alert
+        setTimeout(function () {
+            $(".alert").alert('close');
+        }, 2000);
+    });
+</script>

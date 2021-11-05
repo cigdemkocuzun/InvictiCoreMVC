@@ -1,0 +1,571 @@
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.exe
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.deps.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.dev.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.AssemblyReference.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfoInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfo.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.Manifest.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.xml
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCCoreTemplate.styles.css
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.input.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.output.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorCoreGenerate.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.genruntimeconfig.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CopyComplete
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddorUpdate.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogDetails.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.Manifest.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.xml
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCCoreTemplate.styles.css
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.input.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.output.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorCoreGenerate.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLogin.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Lockout.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignedOut.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddorUpdate.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogDetails.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.exe
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.genruntimeconfig.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.exe
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.deps.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.dev.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.AssemblyReference.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfoInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfo.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.Manifest.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.xml
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCCoreTemplate.styles.css
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.input.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.output.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorCoreGenerate.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLogin.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Lockout.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignedOut.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddorUpdate.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogDetails.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CopyComplete
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.genruntimeconfig.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Application\AddorUpdate.cshtml.g.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Application\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.exe
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.Manifest.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.xml
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCCoreTemplate.styles.css
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.input.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.output.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorCoreGenerate.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLogin.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Lockout.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignedOut.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Application\AddorUpdate.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Application\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.genruntimeconfig.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.exe
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.deps.json
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Business.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorAssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.Manifest.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\staticwebassets\MVCCoreTemplate.StaticWebAssets.xml
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCCoreTemplate.styles.css
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.input.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.TagHelpers.output.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorCoreGenerate.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLogin.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Lockout.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignedOut.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Application\AddorUpdate.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Application\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cache
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.RazorTargetAssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Views.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.dll
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.pdb
+C:\Users\cigdem.koc\Desktop\yedek invicti\MVCCoreTemplate\MVCCoreTemplate\obj\Debug\netcoreapp3.1\MVCCoreTemplate.genruntimeconfig.cache

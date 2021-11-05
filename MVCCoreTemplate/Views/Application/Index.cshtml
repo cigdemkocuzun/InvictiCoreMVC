@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Application>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>Application List</h2>
+    <hr />
+    <div class="row">
+        <div class="col">
+            @if (Model.Count() > 0)
+            {
+            <p>
+                <a href="/Application/AddorUpdate" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span>Add New Application</a>
+            </p>
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Url</th>
+                            <th>Monitoring Interval</th>
+                            <th>Description</th>
+                            <th>#</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.ApplicationId</td>
+                                <td>@item.Name</td>
+                                <td>@item.Url</td>
+                                <td>@item.MonitoringInterval</td>
+                                <td>@item.Description</td>
+                                <td>
+                                    @Html.ActionLink("Edit", "AddorUpdate", "Application", new { id = item.ApplicationId }, new { @class = "btn btn-primary btn-sm" })
+                                    <a href="/Application/Delete/@item.ApplicationId"
+                                       onclick="return confirm('Are you sure want to delete this application record?')"
+                                       class="btn btn-danger btn-sm" title="Delete">
+                                        Delete
+                                        <span class="glyphicon glyphicon-trash"></span>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>
+                    <a href="/Application/AddorUpdate" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span>Add New Application</a>
+                </p>
+                <div class="alert alert-danger">
+                    Application not found .
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>
+

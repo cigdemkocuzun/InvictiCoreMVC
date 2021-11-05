@@ -1,0 +1,69 @@
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.deps.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfo.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.dev.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.genruntimeconfig.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.genruntimeconfig.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.deps.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.dev.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfo.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.genruntimeconfig.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.DataAccess\obj\Debug\netcoreapp3.1\MVCCoreTemplate.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.deps.json
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.AssemblyReference.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfoInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfo.cs
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\source\repos\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\invicti\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.deps.json
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.AssemblyReference.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfoInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfo.cs
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\gulsum\Desktop\Yeni klasör\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.deps.json
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\bin\Debug\netcoreapp3.1\MVCCoreTemplate.Core.pdb
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.dll
+C:\Users\cigdem.koc\Desktop\New folder (2)\0411\MVCCoreTemplate\MVCCoreTemplate.Entities\obj\Debug\netcoreapp3.1\MVCCoreTemplate.Entities.pdb
