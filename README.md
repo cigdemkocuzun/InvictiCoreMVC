@@ -12,7 +12,7 @@
 
 -After registration a confirmation mail will send (probably will be in your spam box) however you don't need to confirm it from your mail for login.
 
--Email confirmation requirement is closed.
+-Email confirmation requirement is closed.(SendGrid is used for mail operations)
 
 -You can reach 'Application' menu on the top (for update-delete-edit operations)
 
