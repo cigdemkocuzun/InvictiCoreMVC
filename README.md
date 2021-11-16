@@ -16,5 +16,5 @@
 
 -You can reach 'Application' menu on the top (for update-delete-edit operations)
 
--WorkerService is used for monitoring app's health. According to the monitoring interval, worker service checks if the apps is up or down.
+-WorkerService is used for monitoring app's health. According to the monitoring interval, worker service checks if the apps are up or down.
 
