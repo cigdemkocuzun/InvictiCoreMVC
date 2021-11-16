@@ -8,7 +8,7 @@
 
 -Please first use update-database command to create the database
 
--Microsoft Identity is use for login operations.First you need to register to login.SendGrid is used for mail process.
+-Microsoft Identity is used for login operations.First you need to register to login.
 
 -After registration a confirmation mail will send (probably will be in your spam box) however you don't need to confirm it from your mail for login.
 
@@ -16,5 +16,5 @@
 
 -You can reach 'Application' menu on the top (for update-delete-edit operations)
 
--WorkerService is used for monitoring app's health.
+-WorkerService is used for monitoring app's health. According to the monitoring interval, worker service checks if the apps is up or down.
 
