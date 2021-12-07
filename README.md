@@ -1,6 +1,5 @@
 # InvictiCoreMVC
 
-***This project was made for Invicti Code Assignment.***
 
 -All latest versions of .net is used
 
